@@ -25,6 +25,8 @@ This project is basically for solving leetcode problem using java Programming la
 </a>
 </p>
 
+leet code problem solution link: https://walkccc.me/LeetCode/preface/
+
 ## Auther
 Rakib_khan  khanrakib218@gmail.com
 
